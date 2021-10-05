@@ -45,12 +45,12 @@ main {
  */
 
 ::-moz-selection {
-  background: #b3d4fc;
+  background: #aa6907;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: #aa6907;
   text-shadow: none;
 }
 
