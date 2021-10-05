@@ -27,15 +27,12 @@ main {
   grid-auto-rows:min-content;
   grid-gap:2rem;
 }
-/*
 .left-sidebar {
   grid-column: 1 / 2;
 }
-
 .main-content {
   grid-column: 2 / 3;
 }
-*/
 
 /*
  * Remove text-shadow in selection highlight:
