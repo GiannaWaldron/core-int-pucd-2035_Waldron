@@ -76,23 +76,9 @@ p1{
 p:first-line {
 	font-weight: 600;
 	letter-spacing: 1px;
+
 }
-.realtor {
-	display: grid;
-	grid-template-columns: 80px auto;
-	margin-top: 0.25rem;
-	grid-gap: 0.5em;
-}
-.realtor-logo {
-	background-image: url(../img/logo.gif);
-	width: 73px;
-	height: 20px;
-	text-indent: -1000000px;
-}
-.realtor-address {
-	align-self: end;
-}
-footer {
+aside {
 	z-index: 2;
 	grid-column: 3 / 4;
 	grid-row: 6 / 7;	
