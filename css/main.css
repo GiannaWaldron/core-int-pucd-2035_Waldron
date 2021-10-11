@@ -65,7 +65,7 @@ img {
 	width: auto;
 	height: auto;
 }
-p {
+p1{
 	grid-column: 3 / 4;
 	grid-row: 5 / 6;	
 	z-index: 2;	
