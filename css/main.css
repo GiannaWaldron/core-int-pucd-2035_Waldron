@@ -62,8 +62,7 @@ img {
 	grid-column: 3 / 4;
 	grid-row: 3 / 4;	
 	z-index: 2;
-	width: auto;
-	height: auto;
+  
 }
 p{
 	grid-column: 3 / 4;
